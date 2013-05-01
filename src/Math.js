@@ -17,6 +17,8 @@ var _m = MT.Math;
  	this.y = y;
  }
 
+ 
+
 /*** 直线对象
 *** @param Point 直线上的一个点
 *** @param Number | Point  斜率或者另外一个点****/
