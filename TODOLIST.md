@@ -2,9 +2,9 @@ TODOLIST
 ==============
     我们需要实现的几何类,并且实现每个类的相关计算
     以下的类与类之间可相互依赖。
->   Class Point:  点
->   class Line: 线
->   class Rectangle: 矩形
+>Class Point:  点
+>class Line: 线
+>class Rectangle: 矩形
 >   class Triangle: 三角形
 >   class polygon:多边形
 >   class Cirle:圆
